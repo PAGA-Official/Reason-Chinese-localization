@@ -36,3 +36,8 @@ Reason 13.1 Chinese localization(Reason 13.1 汉化补丁)
 
 
 第二步：重新打开Reason，Enjoy it！
+
+
+# 赞助
+
+如果你觉得这个项目很有帮助的话，可以赏杯奶茶🥤哦：https://afdian.com/a/gorzen
