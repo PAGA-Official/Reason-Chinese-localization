@@ -18,7 +18,7 @@ Step 2: Click the Preference option in the Edit menu:
 
 
 
-# 第三步：打开Advance（高级）选项页，设定Language（语言）为日本语，然后关闭Reason
+第三步：打开Advance（高级）选项页，设定Language（语言）为日本语，然后关闭Reason
 
 Step 3: Open the Advanced options page, set Language to Japanese, and then close Reason
 
@@ -26,27 +26,32 @@ Step 3: Open the Advanced options page, set Language to Japanese, and then close
 
 
 
-# 第四步：用ja-JP(13.1).dll替换默认目录C:\Program Files\Propellerhead\Reason 13\Languages原来的ja-JP.dll文件并重命名为ja-JP.dll（注意：为了防止翻车，尽量作文件备份）
-# Step 4: Replace the original ja-JP.dll file in the default directory C:\Program Files\Propellerhead\Reason 13\Languages with ja-JP(13.1).dll and rename it to ja-JP.dll (note: to prevent any issues, it is recommended to make a backup of the file).
+第四步：用ja-JP(13.1).dll替换默认目录C:\Program Files\Propellerhead\Reason 13\Languages原来的ja-JP.dll文件并重命名为ja-JP.dll（注意：为了防止翻车，尽量作文件备份）
+
+Step 4: Replace the original ja-JP.dll file in the default directory C:\Program Files\Propellerhead\Reason 13\Languages with ja-JP(13.1).dll and rename it to ja-JP.dll (note: to prevent any issues, it is recommended to make a backup of the file).
 
 ![ab0b40625c03cce41a771593118d39e8_w1892_h1065_s130 png](https://github.com/user-attachments/assets/22041119-fb19-4ab1-a0fa-74a7cabd223b)
 
 
-# 第五步：重新打开Reason，Enjoy it！
-# Step 5: Reopen Reason, Enjoy it!
+第五步：重新打开Reason，Enjoy it！
+
+Step 5: Reopen Reason, Enjoy it!
 
 # Mac汉化方法(Chinese localization method on Mac)：
 
-# 第一步：解压en.lproj(13.1).zip压缩包，将整个文件夹替换默认目录/Applications/Reason 13.app/Contents/Resources下原来的en.lproj文件夹并重命名为en.lproj（注意：为了防止翻车，尽量作文件备份）
-# Step 1: Unzip the en.lproj(13.1).zip archive, replace the entire folder with the original en.lproj folder under the default directory /Applications/Reason 13.app/Contents/Resources, and rename it to en.lproj (note: to prevent any issues, it is recommended to make a file backup).
+第一步：解压en.lproj(13.1).zip压缩包，将整个文件夹替换默认目录/Applications/Reason 13.app/Contents/Resources下原来的en.lproj文件夹并重命名为en.lproj（注意：为了防止翻车，尽量作文件备份）
+
+Step 1: Unzip the en.lproj(13.1).zip archive, replace the entire folder with the original en.lproj folder under the default directory /Applications/Reason 13.app/Contents/Resources, and rename it to en.lproj (note: to prevent any issues, it is recommended to make a file backup).
 
 <img width="1487" alt="截屏2025-02-22 12 03 43" src="https://github.com/user-attachments/assets/ac4af4e0-351c-4766-8481-9e9772cc1ad0" />
 
 
-# 第二步：重新打开Reason，Enjoy it！
-# Step 2: Reopen Reason, Enjoy it!
+第二步：重新打开Reason，Enjoy it！
+
+Step 2: Reopen Reason, Enjoy it!
 
 # 赞助
 
 如果你觉得这个项目很有帮助的话，可以赏杯奶茶🥤哦：https://afdian.com/a/gorzen
+
 If you find this project very helpful, you can reward a cup of bubble tea🥤: https://afdian.com/a/gorzen
