@@ -3,21 +3,24 @@ Reason 13.1 Chinese localization(Reason 13.1 汉化补丁)
 
 # Win汉化方法(Chinese localization method on Windows)：
 
-# 第一步：打开Reason
+第一步：打开Reason
+
 Step 1: Open Reason
 
 ![f98f2ac2ac25efe9600cd61482bc4d51_w1212_h1214_s62 png](https://github.com/user-attachments/assets/a332febe-2f04-4cc1-818a-4144387c3089)
 
 
-# 第二步：点击Edit（编辑）菜单中的Preference（首选项）选项：
-# Step 2: Click the Preference option in the Edit menu:
+第二步：点击Edit（编辑）菜单中的Preference（首选项）选项：
+
+Step 2: Click the Preference option in the Edit menu:
 
 ![4ee25516bb954fb9cea25bb68579fb20_w781_h962_s222 png](https://github.com/user-attachments/assets/4a089357-1b4e-4d5a-a2a5-cb84ed3ebc06)
 
 
 
 # 第三步：打开Advance（高级）选项页，设定Language（语言）为日本语，然后关闭Reason
-# Step 3: Open the Advanced options page, set Language to Japanese, and then close Reason
+
+Step 3: Open the Advanced options page, set Language to Japanese, and then close Reason
 
 ![d9f9060b36320f853a9e83085f4bc998_w1292_h1419_s87 png](https://github.com/user-attachments/assets/2cc9b4fc-d3c4-476a-a2af-20fa0cf67922)
 
