@@ -49,9 +49,3 @@ Step 1: Unzip the en.lproj(13.1).zip archive, replace the entire folder with the
 第二步：重新打开Reason，Enjoy it！
 
 Step 2: Reopen Reason, Enjoy it!
-
-# 赞助
-
-如果你觉得这个项目很有帮助的话，可以赏杯奶茶🥤哦：https://afdian.com/a/gorzen
-
-If you find this project very helpful, you can reward a cup of bubble tea🥤: https://afdian.com/a/gorzen
